@@ -12,6 +12,7 @@ Using msfconsole to gain access. Setting payload, exploit and running - (Exploit
 
 Command 2 - Setting payload and exploit:
 ![img2](https://user-images.githubusercontent.com/26724539/73883998-baab0400-4843-11ea-9ffd-9ae096b16019.png)
+![img2.1](https://user-images.githubusercontent.com/26724539/74242864-6ed1e200-4cbd-11ea-86fd-5f512c37cfb0.png)
 
 Command 2.1 - Running:
-![img3](https://user-images.githubusercontent.com/26724539/73884000-bbdc3100-4843-11ea-885c-4e4bc7053638.png)
+![img2.2](https://user-images.githubusercontent.com/26724539/73884000-bbdc3100-4843-11ea-885c-4e4bc7053638.png)
