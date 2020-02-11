@@ -16,3 +16,5 @@ Command 2 - Setting payload and exploit:
 
 Command 2.1 - Running:
 ![img2.2](https://user-images.githubusercontent.com/26724539/73884000-bbdc3100-4843-11ea-885c-4e4bc7053638.png)
+
+And now, we can ready the flags.
